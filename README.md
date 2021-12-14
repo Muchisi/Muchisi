@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Muchisi. I am a "Boomerish" Melliannial trying to catch up with the world. 
+- 👀 Computer stuff
+- 🌱 I’m currently learning HTML5, CSS, PHP and plan on taking on a few database languages. I do not know if it is a good idea.
+- 💞️ Still doing some learning. Student collabs would be awesome though.
+- 📫 Contact me on rhodricka@gmail.com for a chat or sharing study material.
